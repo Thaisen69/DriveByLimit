@@ -1,6 +1,6 @@
 LICENSE
 
-# DriveByLimit
+# LICENSE
 	  DriveByLimit
     Copyright (C) 2018  Thaisen
 
