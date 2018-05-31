@@ -1,4 +1,16 @@
-LICENSE
+# DriveByLimit
+The following resource is just a little script, that makes you unable to shoot when you are over the limit of 30 km/h. You can change it to mph in the files if you want to. Yeah and thats all. 
+
+# Install
+/Like any other resourse
+* Download the latest version from here.
+* Extract into it’s own folder (i.e. resources/DriveByLimit, can be wherever you like) Case sensitive btw.
+* Configure the server.cfg file
+* Start the server
+
+# Short GIF:
+
+https://gyazo.com/1c31578ff40264ce3b4053e991464aa8 
 
 # LICENSE
 	  DriveByLimit
@@ -16,6 +28,13 @@ LICENSE
 
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+  
+  
+  # Known Issues:
+  * None right now, but if you find any. Please don't hesitate to ask me or inform me
+
+
     
     
     
