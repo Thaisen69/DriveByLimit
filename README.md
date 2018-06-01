@@ -3,8 +3,8 @@ The following resource is just a little script, that makes you unable to shoot w
 
 
 # Version
-1.0 Everything works as intended
-1.1 Added veh check
+* 1.0 Everything works as intended
+* 1.1 Added veh check
 
 # Install
 /Like any other resourse
