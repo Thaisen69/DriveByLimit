@@ -1,6 +1,11 @@
 # DriveByLimit
 The following resource is just a little script, that makes you unable to shoot when you are over the limit of 30 km/h. You can change it to mph in the files if you want to. Yeah and thats all. 
 
+
+# Version
+1.0 Everything works as intended
+1.1 Added veh check
+
 # Install
 /Like any other resourse
 * Download the latest version from here.
